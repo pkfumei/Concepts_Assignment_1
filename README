@@ -1,0 +1,17 @@
+An assignment for my undergrad Java course.
+First draft.
+
+Write a Java program that defines an array of size 20 
+and assigns 20 different numbers to the array elements. 
+The program then finds the highest number in the array, 
+the lowest number, sum, average, and generates:
+
+ 
+The highest number is
+X
+The lowest number is
+Y
+The sum is
+Z
+The average is
+A
